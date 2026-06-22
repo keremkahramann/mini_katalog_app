@@ -13,7 +13,7 @@ Uygulama, dinamik olarak listelenen mock ürün verilerini kategorilerine göre 
 ---
 
 ## 🛠️ Teknik Detaylar
-* **Kullanılan Flutter Sürümü:** Flutter 3.22.x (veya üzeri)
+* **Kullanılan Flutter Sürümü:** Flutter 3.22.x 
 * **Programlama Dili:** Dart
 * **Geliştirme Ortamı:** Visual Studio Code / Android Studio
 
@@ -25,5 +25,5 @@ Projeyi yerel bilgisayarınızda klonlayıp çalıştırmak için aşağıdaki a
 
 ### 1. Projeyi Klonlayın
 ```bash
-git clone [https://github.com/KULLANICI_ADINIZ/REPINIZIN_ADI.git](https://github.com/KULLANICI_ADINIZ/REPINIZIN_ADI.git)
+git clone https://github.com/keremkahramann/mini_katalog_app
 cd REPINIZIN_ADI
